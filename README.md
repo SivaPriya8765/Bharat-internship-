@@ -1,2 +1,2 @@
-# Bharat-internship-
-This repository contains the tasks completed in bharat internship.
+# Task -1- portfolio
+This repository contains the task 1 completed in bharat internship.
